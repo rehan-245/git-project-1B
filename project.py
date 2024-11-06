@@ -4,4 +4,6 @@ perkalian = a*c
 print(perkalian)
 
 
+print("awowowowo")
 print("hello world")
+
