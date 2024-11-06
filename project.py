@@ -1,4 +1,4 @@
 a = 10
-b = 20
-perkalian = a*b
+c = 20
+perkalian = a*c
 print(perkalian)
